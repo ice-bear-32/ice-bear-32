@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ice-bear-32.
-- 👀 I’m good at node js.
-- 🌱 I’m currently learning python and c++.
-- 📫 How to reach me? DM me on discord "Unlucky Ice Bear#6632"
+- 👀 I’m a friendly bear.
+- 🤔 Probably smart.
 
 <!---
 ice-bear-32/ice-bear-32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
